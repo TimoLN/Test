@@ -23,10 +23,32 @@ Mit der neuen Sonderzeit ist es nun möglich Vertriebsunterstützung im Kalender
 Mit der neuen Fehlzeit ist es nun möglich mehrtägige Dienstreisen mit Übernachtung im Kalender darzustellen.
 ### Umbenennung der Fehlzeit "Fokustag"
 Die Fehlzeit Fokustag wurde auf die Bezeichnung "Fokuszeit" umbenannt.
-### Rechteänderungen
-- Ansicht - Kalender (niederlassungsübergreifend)
-- Ansicht - Termine (niederlassungsübergreifend)
-- Ansicht - Fehlzeiten (niederlassungsübergreifend)
-- Ansicht - Sonderzeiten (niederlassungsübergreifend)
+### Erweiterung der Auswahl-Liste für alle Standorte
+In der Termi
+### Eigener Standort als Standard-Auswahl
+Der eigene Standort wird nun standardmäßig ausgewahlt werden
+### Fokus bei Kundenauswahl
+Bei der Kundenauswahl wird der Fokus automatisch auf das Suchfeld gesetzt
+## Rechteänderungen
+### Systemberater/Systemtechniker
+- Kalender | Fehlzeit - Ansicht (Ab ISGUS GmbH)
+- Kalender | Sonderzeit - Ansicht (Ab ISGUS GmbH)
+- Kalender | Termine - Ansicht (Ab ISGUS GmbH)
+### Technischer Leiter/Teamleiter
+- Kalender | Fehlzeit - Ansicht (Ab ISGUS GmbH)
+- Kalender | Sonderzeit - Ansicht (Ab ISGUS GmbH)
+- Kalender | Termine - Ansicht (Ab ISGUS GmbH)
+### Administration / Planer
+- Kalender | Fehlzeit - Ansicht (Ab ISGUS GmbH)
+- Kalender | Sonderzeit - Ansicht (Ab ISGUS GmbH)
+- Kalender | Termine - Ansicht (Ab ISGUS GmbH)
+### Vertriebsbeauftragte
+- Kalender | Fehlzeit - Ansicht (Ab ISGUS GmbH)
+- Kalender | Sonderzeit - Ansicht (Ab ISGUS GmbH)
+- Kalender | Termine - Ansicht (Ab ISGUS GmbH)
+### Niederlassungsleitung
+- Kalender | Fehlzeit - Ansicht (Ab ISGUS GmbH)
+- Kalender | Sonderzeit - Ansicht (Ab ISGUS GmbH)
+- Kalender | Termine - Ansicht (Ab ISGUS GmbH)
 ## Fehlerbehebungen
 - #2 Im Arbeitsbereich Benutzerverwaltung war das Anlegen von neuen Benutzer nicht möglich, beim Speichervorgang ist ein Fehler aufgetreten.
