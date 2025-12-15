@@ -9,7 +9,9 @@ Die Ansprechpartner werden nun täglich aus ABAS importiert.\
 Es werden nur neue & geänderte Datensätze verarbeitet.
 ### Import von Hardware-Artikeln
 Die Hardware-Artikel werden nun täglich aus ABAS importiert.\
-Es werden nur die systemrelevanten Hardware-Artikel übergeben.
+Es werden nur die systemrelevanten Hardware-Artikel übergeben.\
+> [!NOTE]
+> Diese stehen nun auch im Servicebericht unter Material zur Verfügung.
 ### Import von Dienstleistungsartikeln
 Die Dienstleistungsartikel werden nun täglich aus ABAS importiert.\
 Es werden alle systemrelevanten Dienstleistungsartikel übergeben.
@@ -24,11 +26,11 @@ Mit der neuen Fehlzeit ist es nun möglich mehrtägige Dienstreisen mit Übernac
 ### Umbenennung der Fehlzeit "Fokustag"
 Die Fehlzeit Fokustag wurde auf die Bezeichnung "Fokuszeit" umbenannt.
 ### Erweiterung der Auswahl-Liste für alle Standorte
-In der Termi
+Die Auwahl-Liste in der Terminplanung wurde auf alle Standorte erweitert.
 ### Eigener Standort als Standard-Auswahl
-Der eigene Standort wird nun standardmäßig ausgewahlt werden
+Beim Laden der Terminplanung wird der eigene Standort in der Standort-Auswahl als standart vordefiniert und ausgewählt.
 ### Fokus bei Kundenauswahl
-Bei der Kundenauswahl wird der Fokus automatisch auf das Suchfeld gesetzt
+Bei der Kundenauswahl im Termin wird der Fokus automatisch in das Suchfeld gesetzt, sodass man direkt die Suche durch Eingabe starten kann.
 ## Rechteänderungen
 ### Systemberater/Systemtechniker
 - Kalender | Fehlzeit - Ansicht (Ab ISGUS GmbH)
